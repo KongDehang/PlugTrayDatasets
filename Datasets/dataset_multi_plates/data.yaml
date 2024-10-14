@@ -1,0 +1,12 @@
+path: ../dataset2
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names:
+    0: plate
+    1: chilli seed
+    2: eggplant seed
+    3: cucumber seed
+

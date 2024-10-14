@@ -1,0 +1,7 @@
+path: E:\ADataset\大宗蔬菜数据集
+train: images
+val: images
+test: 
+
+names:
+  0: pepper seed
